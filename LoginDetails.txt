@@ -1,6 +1,6 @@
 admin#password#1
 cbeetge#cole#0
-jleroux#Jethro98#1
+jleroux#Jethro#1
 nsamuel#NSAMUEL#1
 khaug#kris#0
 employee#emp#0
