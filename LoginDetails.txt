@@ -1,3 +1,4 @@
+admin#password#1
 cbeetge#cole#0
 jleroux#Jethro98#1
 nsamuel#NSAMUEL#1
